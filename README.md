@@ -1,14 +1,1 @@
-# Block08
-# personal_website_project
-# personal_website_project
-# personal_website_project
-# personal_website_project
-# personal_vvebsite_project
-# Block08
-# Block-08-
-# Block-08-
-# Block-08-
-# Block-08-
-# 08block
-# 008block
-# 008block
+This is a pesonal portfolio containing a home page, a page containing a list of my hobbies, and then a portfolio page containing my experience and credentials.
